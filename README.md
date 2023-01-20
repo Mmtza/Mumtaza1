@@ -33,8 +33,6 @@
 <h3 align="center">Support:</h3>
 <p align="center" style="left:50;"><a href="https://www.buymeacoffee.com/https://saweria.co/mmtza"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://saweria.co/mmtza" /></a></p>
 
-<br>
-
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmtza&show_icons=true&locale=en&layout=compact" alt="mmtza" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmtza&show_icons=true&locale=en" alt="mmtza" /></p>
